@@ -11,3 +11,7 @@
 - git commit -m "mensagem da etiqueta que vai na mala"
 - git push origin master: envia a mala para o remoto(githug)
 - git status: verifica o estado do repositório local
+---
+o git é demais!
+Lembrando que o git é uma ferramenta de versionamento de arquivos
+o github é um reposit´rorio de projetos que utiliza o git.
